@@ -1,5 +1,9 @@
 # Notification Service
 
+> **Lab / not maintained.** Это ранний учебный проект: репозиторий заархивирован и оставлен для истории. Актуальные проекты — в [профиле](https://github.com/Asyl-k).
+>
+> **Lab / not maintained.** This is an early learning project. The repository is archived and kept for history; see [my profile](https://github.com/Asyl-k) for maintained projects.
+
 Kafka consumer для доменных событий уведомлений. Сервис рассчитан на at-least-once доставку: `eventId` — ключ записи и защита от повторной обработки после redelivery.
 
 ## Возможности
